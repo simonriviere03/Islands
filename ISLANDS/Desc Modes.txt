@@ -1,0 +1,13 @@
+Description des modes
+
+
+1. Mode blanc
+Le fond est constitué de la mer, avec des traits/bulles/requins.
+Soleil.
+
+
+2. Mode black
+Lune.
+Pas de mer, mais étoiles.
+
+3. Mode couleur
